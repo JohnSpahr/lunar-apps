@@ -4,7 +4,7 @@ $json = '';
 if(isset( $_GET['q'])) { // if there's a search query, show the results for it
     $query = urlencode($_GET["q"]);
     //api key (DO NOT SHARE)
-    $api_call = "http://api.weatherapi.com/v1/forecast.json?key=a91ba5fc449842dc9dd220747231510&days=3&q=" . $query;
+    $api_call = "http://api.weatherapi.com/v1/forecast.json?key=12345&days=3&q=" . $query;
     
     //use curl to get weatherapi JSON
     $ch = curl_init($api_call);
