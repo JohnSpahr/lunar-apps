@@ -1,0 +1,5 @@
+{
+    "require": {
+        "fivefilters/readability.php": "^3.1"
+    }
+}
