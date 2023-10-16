@@ -65,7 +65,7 @@ function clean_str($str) {
 
      <!-- meta stuff -->
      <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-     <meta property="og:title" content="Lunar Search: BlackBerry Weather App" />
+     <meta property="og:title" content="Lunar Weather: BlackBerry Weather App" />
      <meta property="og:type" content="website" />
      <meta property="og:url" content="http://lunarproject.org/" />
      <meta property="og:image" content="http://lunarproject.org/images/logo.png" />
