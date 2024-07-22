@@ -1,5 +1,5 @@
 /*
-    (c) Lunar Team 2021-2023. CSS by John Spahr.
+    (c) Lunar Team 2021-2024. CSS by John Spahr.
 */
 
 html,
@@ -30,7 +30,7 @@ a:visited {
 }
 
 .grid p {
-    margin-top: 0px;
+    margin-top: 0;
     margin-bottom: 20px;
 }
 
